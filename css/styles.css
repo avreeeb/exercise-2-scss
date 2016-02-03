@@ -3,27 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Maven+Pro);
 /* Scss Document */
 /* Scss Document */
-html {
-  font-family: "Maven Pro", sans-serif;
-}
-
-.border {
-  border: 2px solid #aaaaaa;
-}
-
-.border p {
-  color: #80d5ff;
-}
-
-@media only screen and (min-width: 30em) {
-  border-color: #80d5ff;
-}
-
-@media only screen and (min-width: 60em) {
-  border-color: #00e6ac;
-}
-
-.primary-btn {
+.btn-1 {
   color: #fff;
   font-size: 15em;
   padding-top: 15px;
@@ -32,11 +12,11 @@ html {
   background: #2980b9;
 }
 
-.primary-btn:hover {
+.btn-1:hover {
   background: #fff;
 }
 
-.secondary-btn {
+.btn-2 {
   color: #fff;
   font-size: 15em;
   padding-top: 15px;
@@ -45,6 +25,6 @@ html {
   background: #e5ccff;
 }
 
-.secondary-btn:hover {
+.btn-2:hover {
   background: #fff;
 }
