@@ -9,7 +9,7 @@
   padding-top: 15px;
   width: 400px;
   height: 400px;
-  background: #2980b9;
+  background: #17afa0;
 }
 
 .btn-1:hover {
@@ -22,9 +22,61 @@
   padding-top: 15px;
   width: 400px;
   height: 400px;
-  background: #e5ccff;
+  background: #269b8d;
 }
 
 .btn-2:hover {
+  background: #fff;
+}
+
+.btn-3 {
+  color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px;
+  height: 400px;
+  background: #288c7d;
+}
+
+.btn-3:hover {
+  background: #fff;
+}
+
+.btn-4 {
+  color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px;
+  height: 400px;
+  background: #267a6c;
+}
+
+.btn-4:hover {
+  background: #fff;
+}
+
+.btn-5 {
+  color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px;
+  height: 400px;
+  background: #25665a;
+}
+
+.btn-5:hover {
+  background: #fff;
+}
+
+.btn-6 {
+  color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px;
+  height: 400px;
+  background: #24564d;
+}
+
+.btn-6:hover {
   background: #fff;
 }

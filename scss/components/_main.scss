@@ -1,9 +1,25 @@
 /* Scss Document */
 
 .btn-1{
-  @include button(#2980b9);   //⬅︎ When we use the mixin we need to give it a bg-color
+  @include button($a);   //⬅︎ When we use the mixin we need to give it a bg-color
 }
 
 .btn-2{
-  @include button(#e5ccff);  
+  @include button($b);  
+}
+
+.btn-3{
+  @include button($c);  
+}
+
+.btn-4{
+  @include button($d);  
+}
+
+.btn-5{
+  @include button($e);  
+}
+
+.btn-6{
+  @include button($f);  
 }
