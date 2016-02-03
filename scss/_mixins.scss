@@ -9,6 +9,7 @@
   background: $bg-color;         //⬅︎ It gets used within the mixin here
   &:hover{
 	  background: #fff;
+	  color: $bg-color;
   }
 }
 

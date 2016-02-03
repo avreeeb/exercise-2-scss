@@ -14,6 +14,7 @@
 
 .btn-1:hover {
   background: #fff;
+  color: #17afa0;
 }
 
 .btn-2 {
@@ -27,6 +28,7 @@
 
 .btn-2:hover {
   background: #fff;
+  color: #269b8d;
 }
 
 .btn-3 {
@@ -40,6 +42,7 @@
 
 .btn-3:hover {
   background: #fff;
+  color: #288c7d;
 }
 
 .btn-4 {
@@ -53,6 +56,7 @@
 
 .btn-4:hover {
   background: #fff;
+  color: #267a6c;
 }
 
 .btn-5 {
@@ -66,6 +70,7 @@
 
 .btn-5:hover {
   background: #fff;
+  color: #25665a;
 }
 
 .btn-6 {
@@ -79,4 +84,5 @@
 
 .btn-6:hover {
   background: #fff;
+  color: #24564d;
 }
