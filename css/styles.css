@@ -7,11 +7,11 @@ html {
   font-family: "Maven Pro", sans-serif;
 }
 
-.border, ul {
+.border {
   border: 2px solid #aaaaaa;
 }
 
-.border p, ul p {
+.border p {
   color: #80d5ff;
 }
 
@@ -24,29 +24,27 @@ html {
 }
 
 .primary-btn {
-  display: inline-block;
-  margin: 1em;
-  padding: .5em 1em;
-  border-radius: 3px;
-  text-decoration: none;
   color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px;
+  height: 400px;
   background: #2980b9;
 }
 
 .primary-btn:hover {
-  background: #164666;
+  background: #fff;
 }
 
 .secondary-btn {
-  display: inline-block;
-  margin: 1em;
-  padding: .5em 1em;
-  border-radius: 3px;
-  text-decoration: none;
   color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px;
+  height: 400px;
   background: #e5ccff;
 }
 
 .secondary-btn:hover {
-  background: #b166ff;
+  background: #fff;
 }

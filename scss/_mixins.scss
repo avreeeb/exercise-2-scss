@@ -1,18 +1,15 @@
 /* Scss Document */
 
 @mixin button($bg-color){        //⬅︎ The argument passed is in the round brackets
-  display: inline-block;
-  margin: 1em;
-  padding: .5em 1em;
-  border-radius: 3px;
-  text-decoration: none;
   color: #fff;
+  font-size: 15em;
+  padding-top: 15px;
+  width: 400px; 
+  height: 400px; 
   background: $bg-color;         //⬅︎ It gets used within the mixin here
   &:hover{
-	  background: darken($bg-color, 20%);
+	  background: #fff;
   }
 }
 
-ul{
-	@extend .border;
-}
+
